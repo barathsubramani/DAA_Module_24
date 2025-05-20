@@ -20,8 +20,8 @@ To Solve the given 2D matrix tsp[][], where each row has the array of distances 
 
 ## Program :
 
-### Developed by: Soundariyan MN
-### Register Number:  212222230146
+### Developed by: Barath S
+### Register Number:  212222230018
 
 ```
 def tsp_cost(tsp):
