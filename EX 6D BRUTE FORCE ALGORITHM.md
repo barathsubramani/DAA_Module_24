@@ -23,8 +23,8 @@ To create a python program using brute force method of searching for the given s
 ## Program:
 
 
-### Developed by: Soundariyan MN
-### Register Number: 212222230146
+### Developed by: Barath S
+### Register Number: 212222230018
 
 ```
 import re
