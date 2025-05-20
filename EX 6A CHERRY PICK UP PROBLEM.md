@@ -30,8 +30,8 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 To implement the program for Cherry pickup problem.
 
 
-Developed by: Soundariyan MN
-Register Number:  212222230146
+Developed by: Barath S
+Register Number:  212222230018
 
 class Solution:
     def cherryPickup(self, grid):
