@@ -26,8 +26,8 @@ To create a python program using dynamic programming for 0/1 knapsack problem..
 
 ## Program :
 
-### Developed by: Soundariyan MN
-### Register Number:  212222230146
+### Developed by: Barath S
+### Register Number:  212222230018
 
 ```
 def knapSack(W, wt, val, n):
